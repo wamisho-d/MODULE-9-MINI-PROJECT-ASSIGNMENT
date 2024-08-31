@@ -2,12 +2,12 @@ Task Management
 
 
 Task Management Features:
-  1.Home Page
-  2.Task Dashboard Page
-  3.Task Details Page
-  4. Task Creation Page
-  5. Register Page
-  6. Authentication Page
+  .Home Page
+  .Task Dashboard Page
+  .Task Details Page
+  . Task Creation Page
+  . Register Page
+  . Authentication Page
    
 Contributing
 
